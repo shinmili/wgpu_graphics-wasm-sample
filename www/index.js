@@ -1,0 +1,1 @@
+import * as _ from "wgpu_graphics-wasm-sample";
